@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Task Manager</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <<h1>Task Manager</h1>
+  <div style="display: flex; gap: 1rem; margin-bottom: 1rem;">
+    <button id="addTaskBtn">+ Add Task</button>
+    <button id="addUserBtn">+ Add User</button>
+    <button id="saveBtn">💾 Save</button>
+  </div>
+  <div class="container">
+    <!-- Sidebar Users -->
+    <aside class="sidebar">
+      <h2>Users</h2>
+      <div id="userList" class="user-grid"></div>
+    </aside>
+  
+    <!-- Main Task Board -->
+    <section class="tasks">
+      <h2>Tasks</h2>
+      <div id="taskList" class="task-grid"></div>
+    </section>
+  </div>
+  
+  <script src="app.js"></script>
+</body>
+</html>

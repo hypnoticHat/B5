@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Viết báo cáo tuần",
+    "description": "Tổng hợp tiến độ và kết quả công việc tuần này",
+    "startDate": "2025-05-10",
+    "dueDate": "2025-05-16",
+    "priority": "high",
+    "status": "pending",
+    "assignedUserIds": [
+      1,
+      2
+    ],
+    "createdAt": "2025-05-10T09:15:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Thiết kế giao diện trang chủ",
+    "description": "Wireframe và mockup cho landing page",
+    "startDate": "2025-05-11",
+    "dueDate": "2025-05-18",
+    "priority": "medium",
+    "status": "in-progress",
+    "assignedUserIds": [],
+    "createdAt": "2025-05-11T10:45:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Cập nhật API người dùng",
+    "description": "Thêm endpoint đăng ký và đăng nhập",
+    "startDate": "2025-05-12",
+    "dueDate": "2025-05-17",
+    "priority": "high",
+    "status": "pending",
+    "assignedUserIds": [
+      4,
+      5
+    ],
+    "createdAt": "2025-05-12T14:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Viết bài blog kỹ thuật",
+    "description": "Chia sẻ về pattern Repository trong TypeScript",
+    "startDate": "2025-05-13",
+    "dueDate": "2025-05-20",
+    "priority": "low",
+    "status": "pending",
+    "assignedUserIds": [],
+    "createdAt": "2025-05-13T08:50:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Kiểm thử chức năng upload file",
+    "description": "Viết unit test và integration test cho module upload",
+    "startDate": "2025-05-14",
+    "dueDate": "2025-05-19",
+    "priority": "medium",
+    "status": "in-progress",
+    "assignedUserIds": [
+      2,
+      3
+    ],
+    "createdAt": "2025-05-14T16:25:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Tạo ads quảng cáo",
+    "description": "ads quảng cáo nước rửa mặt siêu sạch",
+    "dueDate": "2025-05-30",
+    "priority": "low",
+    "status": "pending",
+    "assignedUserIds": [
+      6,
+      3
+    ],
+    "createdAt": "2025-05-15T06:45:13.112Z"
+  }
+]

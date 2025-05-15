@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Nguyễn",
+    "email": "alice@example.com",
+    "createdAt": "2025-05-10T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Bob Trần",
+    "email": "bob@example.com",
+    "createdAt": "2025-05-11T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Carol Lê",
+    "email": "carol@example.com",
+    "createdAt": "2025-05-12T14:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "David Phạm",
+    "email": "david@example.com",
+    "createdAt": "2025-05-13T08:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Emma Hồ",
+    "email": "emma@example.com",
+    "createdAt": "2025-05-14T16:20:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Hồ",
+    "email": "\\",
+    "createdAt": "2025-05-15T06:43:59.183Z"
+  }
+]
